@@ -1,0 +1,8 @@
+{"Proposed Model ID": "B", "Accuracy Proposed": 0.8863636363636364, "Baseline Model ID": "B", "Accuracy Baseline": 0.7090909090909091}
+{"Proposed Model ID": "E", "Accuracy Proposed": 0.8409090909090909, "Baseline Model ID": "E", "Accuracy Baseline": 0.7272727272727273}
+{"Proposed Model ID": "P", "Accuracy Proposed": 0.8272727272727273, "Baseline Model ID": "P", "Accuracy Baseline": 0.740909090909091}
+{"Proposed Model ID": "EP", "Accuracy Proposed": 0.8954545454545455, "Baseline Model ID": "EP", "Accuracy Baseline": 0.75}
+{"Proposed Model ID": "BE", "Accuracy Proposed": 0.85, "Baseline Model ID": "BE", "Accuracy Baseline": 0.7090909090909091}
+{"Proposed Model ID": "BP", "Accuracy Proposed": 0.8318181818181818, "Baseline Model ID": "BP", "Accuracy Baseline": 0.7636363636363637}
+{"Proposed Model ID": "BEP", "Accuracy Proposed": 0.8818181818181818, "Baseline Model ID": "BEP", "Accuracy Baseline": 0.7454545454545455}
+{"Proposed Model ID": "In-domain", "Accuracy Proposed": 0.8772727272727273, "Baseline Model ID": "In-domain", "Accuracy Baseline": 0.7818181818181819}

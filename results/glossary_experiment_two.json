@@ -1,0 +1,8 @@
+{"Neighbors Size": 1, "Model Accuracy": 0.7634854771784232}
+{"Neighbors Size": 5, "Model Accuracy": 0.7634854771784232}
+{"Neighbors Size": 10, "Model Accuracy": 0.7634854771784232}
+{"Neighbors Size": 20, "Model Accuracy": 0.7634854771784232}
+{"Neighbors Size": 50, "Model Accuracy": 0.7478991596638657}
+{"Neighbors Size": 100, "Model Accuracy": 0.7551867219917012}
+{"Neighbors Size": 200, "Model Accuracy": 0.7551867219917012}
+{"Neighbors Size": 500, "Model Accuracy": 0.7551867219917012}
